@@ -3,21 +3,18 @@
 
   Additionally, each user will have his/her own schedule of events. So when two users have the same gaps in their schedules that match an event the application will suggest both of them to attend the event together. If a user want to attend an event with a person s/he already knows, users can choose a second way. Users will be able to see the events where their friends attending or for a specific event which friends are attending, and users will be notificated. We also considered the case in which a user has a ticket for an event but he/she cannot attend for some reasons. In that case, the users will be able to hand over their tickets. This will also help people that want to attend the event but cannot find tickets. In this application users will also be able to create their own events and invite their friends and/or other users. The events created by the users will be saved in their personal calendar and be suggested to other users in case it matches their calendars as well. So that the event will be suggested to more and more people. Finally users will be able to check the reviews of some events and gain a background about that event before attending it.
 
-# Developers:
+# Developers
 Damla Eda Bıçakcı
-
 Babanazar Gutlygeldiyev
-
 Sine Mete
-
 Pegah Soltani
-
 Hasan Selim Yağcı
 
 
 Supervisor: Can Alkan
-
 Jury Members: Varol Akman and İbrahim Körpeoğlu
-
 Innovation Expert: Mehmet Çakır
+
+# Reports
+[Project Specification Report](https://github.com/babanazar/pengout/raw/master/Specifications%20Report.pdf)
 
