@@ -4,9 +4,13 @@ Additionally, each user will have his/her own schedule of events. So when two us
 
 # Developers:
 Damla Eda Bıçakcı
+
 Babanazar Gutlygeldiyev
+
 Sine Mete
+
 Pegah Soltani
+
 Hasan Selim Yağcı
 
 
