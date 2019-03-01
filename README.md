@@ -5,14 +5,20 @@
 
 # Developers
 Damla Eda Bıçakcı
+
 Babanazar Gutlygeldiyev
+
 Sine Mete
+
 Pegah Soltani
+
 Hasan Selim Yağcı
 
 
 Supervisor: Can Alkan
+
 Jury Members: Varol Akman and İbrahim Körpeoğlu
+
 Innovation Expert: Mehmet Çakır
 
 # Reports
