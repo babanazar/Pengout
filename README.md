@@ -1,3 +1,8 @@
+# Reports
+[Project Specification Report](https://github.com/babanazar/pengout/raw/master/Specifications%20Report.pdf)
+
+[Analysis Report](https://github.com/babanazar/pengout/raw/master/analysis%20report.pdf)
+
 # Pengout - A mobile app to find events and friends
   Pengout will be a social mobile based application in which motivates people to attend different events and gain various and fun life experiences. The main point of our application is helping people socialize before going to each event. That is, each user will receive suggestions of events based on their interests and suggestions of different people going to the same event before attending. The app will basically detect people that share similar interests or had been in similar events before and match them. Communicating with the suggested users is completely on the users. They can send messages to each other and schedule a meeting or agree on attending the meeting together and they can add each other as friends. 
 
@@ -21,8 +26,5 @@ Jury Members: Varol Akman and İbrahim Körpeoğlu
 
 Innovation Expert: Mehmet Çakır
 
-# Reports
-[Project Specification Report](https://github.com/babanazar/pengout/raw/master/Specifications%20Report.pdf)
 
-[Analysis Report](https://github.com/babanazar/pengout/raw/master/analysis%20report.pdf)
 
