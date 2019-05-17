@@ -2,6 +2,7 @@
 [Project Specification Report](https://github.com/babanazar/pengout/raw/master/Specifications%20Report.pdf)
 
 [Analysis Report](https://github.com/babanazar/pengout/raw/master/analysis%20report.pdf)
+
 [High-Level Design Report](https://github.com/babanazar/pengout/blob/master/High-Level%20Design%20Report.pdf)
 
 # Pengout - A mobile app to find events and friends
@@ -21,13 +22,13 @@ Pegah Soltani
 Hasan Selim Yağcı
 
 
-# Supervisor: 
+# Supervisor
 Can Alkan
 
-# Jury Members: 
+# Jury Members 
 Varol Akman and İbrahim Körpeoğlu
 
-# Innovation Expert: 
+# Innovation Expert
 Mehmet Çakır
 
 
